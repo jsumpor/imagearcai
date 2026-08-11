@@ -1,0 +1,18 @@
+# models and data are not part of this public sample
+*.pt
+runs/
+logs/
+data/
+datasets/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+
+# misc
+*.url
+.DS_Store
